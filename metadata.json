@@ -1,0 +1,15 @@
+{
+  "author": "Puppetlabs Education",
+  "dependencies": [
+  	{ "name": "modules/wget" , "version_requirement":">=2.0.0"}
+  ],
+  "license": "",
+  "name": "wassim-tomcat",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "",
+  "summary": "",
+  "tags": [],
+  "version": "0.1.0"
+}

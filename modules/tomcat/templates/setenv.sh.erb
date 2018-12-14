@@ -1,0 +1,4 @@
+#!/bin/sh
+export JAVA_OPTS="$JAVA_OPTS -XMS<%= @minheap_size %>"
+export JAVA_OPTS="$JAVA_OPTS -XMX<%= @maxheap_size %>"
+export JAVA_OPTS="$JAVA_OPTS -server -XX:+UseParallelGC"
